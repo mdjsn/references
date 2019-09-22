@@ -9,6 +9,8 @@ All the references used by the community
 - [X] [Merging in-between Web and Mobile](https://medium.com/@aryaminus/merging-in-between-web-and-mobile-e671c8a77aa7)
 - [X] [Tutorial: Tomodachi — Contacts Management connecting Heroku, NodeJS, Postgres & React JS/Native](https://medium.com/@aryaminus/tutorial-tomodachi-contacts-management-connecting-node-postgres-and-react-js-native-cfa5bdf758a9)
 - [X] [The top 12 React links of 2018](https://medium.com/dailyjs/the-top-12-react-links-of-2018-eea4c11d35a0)
+- [ ] [The Ultimate Guide to handling JWTs on frontend clients (GraphQL)](https://blog.hasura.io/best-practices-of-using-jwt-with-graphql/)
+- [ ] [GitHub stars won’t pay your rent](https://medium.com/@kitze/github-stars-wont-pay-your-rent-8b348e12baed)
 - [ ] [Overreacted](https://overreacted.io/)
 - [ ] [React Native Training](https://medium.com/react-native-training)
 - [ ] [Coding the Smart way](https://codingthesmartway.com/)
