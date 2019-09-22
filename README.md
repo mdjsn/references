@@ -72,7 +72,7 @@ All the references used by the community
 - [X] [Moving Existing API From REST To GraphQL](https://www.youtube.com/watch?v=broQmxQAMjM)
 - [X] [What is GraphQL? | Build a Complete App with GraphQL, Node.js, MongoDB and React.js](https://www.youtube.com/watch?v=7giZGFDGnkc&list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB_)
 - [X] [The basics of GraphQL and Apollo](https://www.youtube.com/watch?v=eUMgWOcvagQ)
-- [X] [Apollo Docs](https://www.apollographql.com/docs/tutorial/introduction/)
+- [X] [GraphQL: The Documentary](https://www.youtube.com/watch?v=783ccP__No8)
 
 ### Docker
 - [X] [Docker](https://www.youtube.com/playlist?list=PL2dKqfImstaSUBZzxmwJqDe99_BGoCvwo)
