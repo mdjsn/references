@@ -67,6 +67,9 @@ All the references used by the community
 - [X] [The MERN Stack Tutorial — Building A React CRUD Application From Start To Finish](https://medium.com/codingthesmartway-com-blog/the-mern-stack-tutorial-building-a-react-crud-application-from-start-to-finish-part-1-d8d701c2995)
 - [X] [The MERN Stack Tutorial - Youtube](https://www.youtube.com/playlist?list=PL2dKqfImstaRbG8WIBkeHyV1ic5dyiEMj)
 
+### Full Stack
+- [X] [Deep Dive Into Modern Web Development](https://fullstackopen.com/en/)
+
 ### GraphQL
 - [X] [How To GraphQL](https://www.howtographql.com/)
 - [X] [GraphQL](https://graphql.org/)
