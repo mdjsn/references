@@ -1,5 +1,10 @@
-# References
-All the references used by the community
+# <p align="center"> References </p>
+
+<p align="center">
+    <a href="https://sunim.com.np" target="_blank"><img src="https://i.imgur.com/1NOhbk5.png" height="330"/></a>
+</p>
+
+<p align="center">All the references used by the community - quick courses for JS Engineers</p>
 
 ### Modern JS
 - [ ] [The Modern JavaScript Tutorial](https://javascript.info/)
