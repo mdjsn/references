@@ -19,6 +19,7 @@
 - [ ] [Overreacted](https://overreacted.io/)
 - [ ] [React Native Training](https://medium.com/react-native-training)
 - [ ] [Coding the Smart way](https://codingthesmartway.com/)
+- [ ] [SEO tutorial for beginners](https://www.hobo-web.co.uk/seo-tutorial/)
 
 ### Javascript
 - [ ] [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c)
