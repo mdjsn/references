@@ -26,6 +26,7 @@
 - [ ] [JavaScript ES6, ES7, ES8: Learn to Code on the Bleeding Edge (Full Course)](https://www.youtube.com/watch?v=nZ1DMMsyVyI)
 - [X] [7 Reasons Why JavaScript Async/Await Is Better Than Plain Promises](https://dev.to/gafi/7-reasons-to-always-use-async-await-over-plain-promises-tutorial-4ej9)
 - [X] [Google Chrome Developer Tools Crash Course](https://www.youtube.com/watch?v=x4q86IjJFag)
+- [ ] [How to Understand Callbacks & Higher Order Functions](https://www.youtube.com/watch?v=viQz4nUUnpw)
 
 ### Typescript
 - [ ] [Typescript vs Javascript](https://www.youtube.com/watch?v=D6or2gdrHRE)
@@ -42,6 +43,7 @@
 - [X] [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
 - [ ] [All the fundamental React.js concepts, jammed into this one article](https://www.freecodecamp.org/news/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2/)
 - [X] [Beginner ReactJS Testing Tutorial ](https://www.youtube.com/watch?v=REfRxzmWDLs)
+- [ ] [Introducing React Hooks ](https://www.youtube.com/watch?v=mxK8b99iJTg)
 
 ### React Native
 - [X] [React Native - Udacity](https://tylermcginnis.com/courses/react-native-udacity/)
