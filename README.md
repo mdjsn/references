@@ -75,6 +75,9 @@
 - [X] [The MERN Stack Tutorial — Building A React CRUD Application From Start To Finish](https://medium.com/codingthesmartway-com-blog/the-mern-stack-tutorial-building-a-react-crud-application-from-start-to-finish-part-1-d8d701c2995)
 - [X] [The MERN Stack Tutorial - Youtube](https://www.youtube.com/playlist?list=PL2dKqfImstaRbG8WIBkeHyV1ic5dyiEMj)
 
+### SQL
+- [ ] [MySQL Tutorial for Beginners 2019 - Full Course](https://www.youtube.com/watch?v=7S_tz1z_5bA)
+
 ### Full Stack
 - [X] [Deep Dive Into Modern Web Development](https://fullstackopen.com/en/)
 
@@ -107,3 +110,4 @@
 ### Vue.js
 - [X] [Vue.js](https://www.youtube.com/playlist?list=PL2dKqfImstaTt-MMJlEQDQqIqyrM945FI)
 - [X] [Introduction Vue.js](https://vuejs.org/v2/guide/)
+- [ ] [Learn Vue 2: Step By Step](https://laracasts.com/series/learn-vue-2-step-by-step)
