@@ -27,6 +27,8 @@
 - [X] [7 Reasons Why JavaScript Async/Await Is Better Than Plain Promises](https://dev.to/gafi/7-reasons-to-always-use-async-await-over-plain-promises-tutorial-4ej9)
 - [X] [Google Chrome Developer Tools Crash Course](https://www.youtube.com/watch?v=x4q86IjJFag)
 - [ ] [How to Understand Callbacks & Higher Order Functions](https://www.youtube.com/watch?v=viQz4nUUnpw)
+- [ ] [Higher-order functions - Part 1 of Functional Programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk)
+- [ ] [JavaScript ES6 / ES2015 - Promises](https://www.youtube.com/watch?v=XJEHuBZQ5dU)
 
 ### Typescript
 - [ ] [Typescript vs Javascript](https://www.youtube.com/watch?v=D6or2gdrHRE)
